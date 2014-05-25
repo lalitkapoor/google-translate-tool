@@ -1,5 +1,5 @@
 google-translate-tool
----------------------
+=====================
 
 ![screenshot](./screenshot.png)
 
