@@ -3,6 +3,8 @@ google-translate-tool
 
 ![screenshot](./screenshot.png)
 
+早上醒來沒事，寫個打發時間專案，順便向[大神](https://github.com/afc163/fanyi)致敬 XD
+
 ## Install
 
 ```bash
